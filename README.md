@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/user-attachments/assets/f134081a-da8d-4774-9908-6ae888fb1d4e" width="80%" hight="10px" /> <br>
+<img src="https://github.com/user-attachments/assets/f134081a-da8d-4774-9908-6ae888fb1d4e" width="80%" hight="0px" /> <br>
 <!-- [photo_2025-11-18_18-54-40](https://github.com/user-attachments/assets/f134081a-da8d-4774-9908-6ae888fb1d4e) -->
 
 
