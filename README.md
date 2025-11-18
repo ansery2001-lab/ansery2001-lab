@@ -1,127 +1,61 @@
-### Hi there 👋
+## Hey 👋, I'm Rahul Jha!
+<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-I'm Moepoi ([21](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
 
-I'd like to do project that has relation to anime. :ghost:
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
 
-:page_with_curl: I'm currently learning:
-<br><br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-:star: Here are some projects that I'm working on:
-- [Frontier of Hell](https://github.com/moepoi/Frontier-of-Hell)
-- [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)
-- [Nekoya](https://github.com/Nekoya-Site)
-- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
-- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
-- [Nepgear](https://t.me/NepgearBot)
-- [WhoisBot](https://t.me/WhoisBot)
-- [Moe API](https://beta.moe.team)
-
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi">
-<img src="https://github-profile-trophy.vercel.app/?username=moepoi">
-</details>
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 <br>
 
-<img src="https://img.anili.st/user/161753" width="500">
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
+<br>
+
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-<!-- anilist_activity starts -->
-* [Plans to watch None](https://anilist.co/activity/656105379) of [Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season](https://anilist.co/anime/171110)
-* [Watched episode 23](https://anilist.co/activity/647759142) of [Cang Yuan Tu](https://anilist.co/anime/155244)
-* [Watched episode 32 - 33](https://anilist.co/activity/647759068) of [Gaishi Dizun](https://anilist.co/anime/155321)
-* [Watched episode 364 - 365](https://anilist.co/activity/647759051) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 7](https://anilist.co/activity/647505185) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-<!-- anilist_activity ends -->
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-</details>
+</a>
 
-<details>
-<summary>:tv: List Favorites Anime</summary>
-  
-<!-- favorites_anime starts -->
-* [Ze Tian Ji](https://anilist.co/anime/101409)
-* [Ze Tian Ji 2](https://anilist.co/anime/102165)
-* [Ze Tian Ji 3](https://anilist.co/anime/102166)
-* [Ze Tian Ji 4](https://anilist.co/anime/108986)
-* [Ze Tian Ji 5](https://anilist.co/anime/115839)
-* [Toaru Majutsu no Index](https://anilist.co/anime/4654)
-* [Toaru Majutsu no Index II](https://anilist.co/anime/8937)
-* [Toaru Majutsu no Index III](https://anilist.co/anime/100185)
-* [Toaru Kagaku no Railgun](https://anilist.co/anime/6213)
-* [Toaru Kagaku no Railgun S](https://anilist.co/anime/16049)
-* [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
-* [Ling Jian Zun](https://anilist.co/anime/107882)
-* [Ling Jian Zun 2](https://anilist.co/anime/116137)
-* [Ling Jian Zun 3](https://anilist.co/anime/116138)
-* [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Doupo Cangqiong](https://anilist.co/anime/102464)
-* [Doupo Cangqiong 2](https://anilist.co/anime/102463)
-* [Doupo Cangqiong 3](https://anilist.co/anime/104922)
-* [World Trigger](https://anilist.co/anime/20729)
-* [World Trigger 2](https://anilist.co/anime/114087)
-* [Mahouka Koukou no Rettousei](https://anilist.co/anime/20458)
-* [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
-* [Tong Ling Fei](https://anilist.co/anime/99935)
-* [Shu Ling Ji](https://anilist.co/anime/119945)
-* [Quanzhi Fashi](https://anilist.co/anime/99200)
-<!-- favorites_anime ends -->
+<br>
 
-</details>
-
-<details>
-<summary>:book: List Favorites Manga</summary>
-  
-<!-- favorites_manga starts -->
-<!-- favorites_manga ends -->
-
-</details>
-
-<details>
-<summary>:girl: List Favorites Character</summary>
-  
-<!-- favorites_characters starts -->
-* [Mahiru Shiina](https://anilist.co/character/195602)
-* [Mini Yaemori](https://anilist.co/character/153703)
-* [Loo](https://anilist.co/character/293202)
-* [Mukuro Hoshimiya](https://anilist.co/character/157109)
-* [Akari Watanabe](https://anilist.co/character/191672)
-* [Misaki Shokuhou](https://anilist.co/character/40136)
-* [Kuon](https://anilist.co/character/126823)
-* [Vladilena Milizé](https://anilist.co/character/141061)
-* [Yor Forger](https://anilist.co/character/138102)
-* [Chizuru Ichinose](https://anilist.co/character/128106)
-* [Celia Claire](https://anilist.co/character/161678)
-* [Kyouko Hori](https://anilist.co/character/66171)
-* [Nagisa Minase](https://anilist.co/character/162885)
-* [Sayu Ogiwara](https://anilist.co/character/127925)
-* [Ravel Phenex](https://anilist.co/character/58341)
-* [Yuuko Yoshida](https://anilist.co/character/141461)
-* [Ziyu Zhou](https://anilist.co/character/234726)
-* [Angelina Kudou Shields](https://anilist.co/character/128377)
-* [Ninym Ralei](https://anilist.co/character/206374)
-* [Marin Kitagawa](https://anilist.co/character/133676)
-* [Holo](https://anilist.co/character/7373)
-* [Ayako Kuroba](https://anilist.co/character/200612)
-* [Nepgear](https://anilist.co/character/49927)
-* [Jibril](https://anilist.co/character/87887)
-<!-- favorites_characters ends -->
-
-</details>
-
-Feel free to contact me :yum:
-<br><br>
-<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
-<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
-<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
-<a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
-<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
+### 🛠️ My Projects
+<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
+<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
