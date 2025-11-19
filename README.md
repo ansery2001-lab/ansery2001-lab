@@ -16,7 +16,7 @@
 I'm an Embedded Software Engineer | Coding Instructor at iSchool
 <hr/>
 
-## 💬 Contact Me
+## 🌐 Contact Me
 
 <a href="mailto:ansarygad2001@gmail.com">
   <img src="https://img.icons8.com/fluency-systems-filled/48/FFFFFF/new-post.png" width="40"/>
