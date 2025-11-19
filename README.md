@@ -41,5 +41,3 @@
 ![Proteus](https://img.shields.io/badge/Proteus-ff6600?style=flat)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat)
-
----
