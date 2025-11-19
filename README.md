@@ -1,20 +1,16 @@
-<div align="center">
-<h2>
+<!-- <div align="center"> -->
+<h2 align="center">
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Ansary GadAllah, Embedded Software Engineer :computer:<br><br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Workspace" height="300px" width="90%"/><br>
-</h2>
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=ansery2001-lab&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
-<hr/>
+</h2>
+<!-- </div>
 
 ## 🤷‍♂️ About Me
 
 I'm an Embedded Software Engineer | Coding Instructor at iSchool
-<hr/>
 
 ## 🌐 Contact Me
 
@@ -27,8 +23,6 @@ I'm an Embedded Software Engineer | Coding Instructor at iSchool
 <a href="https://www.facebook.com/share/1ADippivMg/" target="_blank">
   <img src="https://img.icons8.com/fluency/48/facebook.png" width="40" />
 </a>
-
----
 
 ## 🛠 Skills & Tools
 
