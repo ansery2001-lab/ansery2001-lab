@@ -7,10 +7,10 @@
 </h2>
 ![Profile Views](https://komarev.com/ghpvc/?username=ansery2001-lab&style=flat&color=blue)
 
+![Totals Hits](https://komarev.com/ghpvc/?username=ansery2001-lab&style=flat&color=orange&label=PROFILE+VIEWS)
+
 </div>
-
 <hr/>
-
 ## 👨‍💻 About Me
 I'm an Embedded Software Engineer | Coding Instructor at iSchool
 <hr/>
