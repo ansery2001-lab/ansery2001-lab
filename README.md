@@ -1,12 +1,12 @@
-<!-- <div align="center"> -->
-<h2 align="center">
+<div align="center">
+<h2>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Ansary GadAllah, Embedded Software Engineer :computer:<br><br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Workspace" height="300px" width="90%"/><br>
 ![Totals Hits](https://komarev.com/ghpvc/?username=ansery2001-lab&style=flat&color=orange&label=PROFILE+VIEWS)
 </h2>
-<!-- </div>
+ </div>
 
 ## 🤷‍♂️ About Me
 
