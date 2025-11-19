@@ -44,6 +44,6 @@
 
 ---
 
-## ⚡ Fun Facts
+# ⚡ Fun Facts
 - I love exploring embedded systems and teaching coding.  
 - Always learning new protocols, RTOS tricks, and hardware-software integration.
