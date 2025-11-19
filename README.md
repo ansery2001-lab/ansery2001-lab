@@ -12,17 +12,20 @@
 <hr/>
 
 ## 👨‍💻 About Me
-*Ansary Gad* – Embedded Software Engineer | Coding Instructor at iSchool  
-📍 Cairo, Egypt  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ansarygad2001@gmail.com)ansarygad2001@gmail.com <br>
-📧 [ansarygad2001@gmail.com](mailto:ansarygad2001@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ansary-gad77)
+I am an Embedded Software Engineer | Coding Instructor at iSchool
+<hr/>
 
+## 👨‍💻 Contact Me
 
+<a href="mailto:ansarygad2001@gmail.com">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/FFFFFF/new-post.png" width="40"/>
+</a> 
 <a href="https://www.linkedin.com/in/ansary-gad77" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" />
+</a> 
+<a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/facebook.png" width="40" />
 </a>
-
 
 ---
 
