@@ -19,6 +19,11 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/ansary-gad77)
 
 
+<a href="https://www.linkedin.com/in/ansary-gad77" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" />
+</a>
+
+
 ---
 
 ## 🛠 Skills & Tools
