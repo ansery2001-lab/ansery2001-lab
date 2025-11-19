@@ -12,7 +12,7 @@
 <hr/>
 
 ## 👨‍💻 About Me
-I am an Embedded Software Engineer | Coding Instructor at iSchool
+I'm an Embedded Software Engineer | Coding Instructor at iSchool
 <hr/>
 
 ## 👨‍💻 Contact Me
