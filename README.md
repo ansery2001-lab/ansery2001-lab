@@ -3,18 +3,20 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Ansary GadAllah, Embedded Software Engineer :computer:<br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Workspace" height="400px" width="90%"/><br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Workspace" height="300px" width="90%"/><br>
 </h2>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ansery2001-lab&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 <hr/>
-## 👨‍💻 About Me
+
+## 🤷‍♂️ About Me
+
 I'm an Embedded Software Engineer | Coding Instructor at iSchool
 <hr/>
 
-## 👨‍💻 Contact Me
+## 💬 Contact Me
 
 <a href="mailto:ansarygad2001@gmail.com">
   <img src="https://img.icons8.com/fluency-systems-filled/48/FFFFFF/new-post.png" width="40"/>
