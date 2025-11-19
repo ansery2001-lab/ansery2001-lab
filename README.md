@@ -43,7 +43,3 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat)
 
 ---
-
-# ⚡ Fun Facts
-- I love exploring embedded systems and teaching coding.  
-- Always learning new protocols, RTOS tricks, and hardware-software integration.
