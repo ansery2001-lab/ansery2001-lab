@@ -5,7 +5,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Workspace" height="400px" width="90%"/><br>
 </h2>
-![Profile Views](https://komarev.com/ghpvc/?username=ansery2001-lab&style=flat&color=blue)
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ansery2001-lab&style=flat&color=orange&label=PROFILE+VIEWS)
 
